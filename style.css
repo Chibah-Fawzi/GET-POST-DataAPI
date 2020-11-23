@@ -1,0 +1,24 @@
+html {
+    margin: 10px;
+}
+
+form {
+    margin-top: 40px;
+}
+label {
+
+}
+
+label, #button {
+    
+    display: block;
+}
+
+button {
+    margin-bottom: 40px;
+}
+
+input {
+    width: 200px;
+    height: 30px;
+}
